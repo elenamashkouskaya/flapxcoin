@@ -82,23 +82,19 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x9e17be6aefbffc74cf4deab73f93bd050e696008fe28c56de80520a22b05fafb"));
 ///removed seednodes as un reachable left in place incase they are/become live again
 /*
-        vSeeds.push_back(CDNSSeedData("seed", "seed.flapx.mycryptocoins.net"));
-        vSeeds.push_back(CDNSSeedData("seednodes", "seednodes.flapx.mycryptocoins.net"));
+        N/A
 */
 ///new seednodes should improve initial connectivity and sync	    
-        vSeeds.push_back(CDNSSeedData("Explorer", "159.65.37.70"));
-        vSeeds.push_back(CDNSSeedData("Pool", "167.99.11.100"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-US-E", "159.203.92.66"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-US-W", "178.128.184.210"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-Bangladore", "139.59.39.255"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-Singapore", "206.189.33.55"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-Amsterdam", "188.166.73.116"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-UK", "178.128.40.35"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-US-E-2", "206.189.226.95"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-Frankfurt", "46.101.111.50"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-Toronto", "167.99.179.149"));
-        vSeeds.push_back(CDNSSeedData("Community-Node-UK-2", "178.128.164.219"));
-	
+        vSeeds.push_back(CDNSSeedData("Flapmin-Node", "flap01.flapxcoin.com"));
+        vSeeds.push_back(CDNSSeedData("Flapmin-Node", "flap02.flapxcoin.com"));
+        vSeeds.push_back(CDNSSeedData("Flapmin-Node", "flap03.flapxcoin.com"));
+        vSeeds.push_back(CDNSSeedData("Flapmin-Node", "flap04.flapxcoin.com"));
+        vSeeds.push_back(CDNSSeedData("Nlab-Node", "flap01.nerdLabs001.com"));
+        vSeeds.push_back(CDNSSeedData("Nlab-Node", "flap02.nerdLabs001.com"));
+        vSeeds.push_back(CDNSSeedData("Nlab-Node", "flap03.nerdLabs001.com"));
+        vSeeds.push_back(CDNSSeedData("Nlab-Node", "flap04.nerdLabs001.com"));
+        vSeeds.push_back(CDNSSeedData("Nlab-Node", "flapdns.nerdLabs001.com"));
+
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 75); //X
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 80); //Z
