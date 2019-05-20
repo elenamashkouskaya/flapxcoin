@@ -2292,7 +2292,7 @@
              <string notr="true">background:transparent;</string>
             </property>
             <property name="icon">
-             <iconset resource="../bitcoin.qrc">
+             <iconset>
               <normaloff>:/images/res/images/FlapXcoin/Crypto Links/CH.png</normaloff>:/images/res/images/FlapXcoin/Crypto Links/CH.png</iconset>
             </property>
             <property name="iconSize">
@@ -4002,7 +4002,7 @@
             </property>
             <property name="icon">
              <iconset resource="../bitcoin.qrc">
-              <normaloff>:/images/res/images/FlapXcoin/Social/btct2.png</normaloff>:/images/res/images/FlapXcoin/Social/btct2.png</iconset>
+              <normaloff>:/images/res/images/FlapXcoin/Social/Cc.png</normaloff>:/images/res/images/FlapXcoin/Social/Cc.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -5562,7 +5562,7 @@
             </property>
             <property name="icon">
              <iconset resource="../bitcoin.qrc">
-              <normaloff>:/images/res/images/FlapXcoin/Social/btct2.png</normaloff>:/images/res/images/FlapXcoin/Social/btct2.png</iconset>
+              <normaloff>:/images/res/images/FlapXcoin/Social/Cc.png</normaloff>:/images/res/images/FlapXcoin/Social/Cc.png</iconset>
             </property>
             <property name="iconSize">
              <size>
@@ -5983,7 +5983,7 @@
               <string notr="true">background:transparent;</string>
              </property>
              <property name="icon">
-              <iconset resource="../bitcoin.qrc">
+              <iconset>
                <normaloff>:/images/res/images/FlapXcoin/Crypto Links/CH.png</normaloff>:/images/res/images/FlapXcoin/Crypto Links/CH.png</iconset>
              </property>
              <property name="iconSize">
@@ -6690,7 +6690,7 @@
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap resource="../bitcoin.qrc">:/images/res/images/FlapXcoin/FlapXFM/FXFM.png</pixmap>
+             <pixmap>:/images/res/images/FlapXcoin/FlapXFM/FXFM.png</pixmap>
             </property>
             <property name="scaledContents">
              <bool>true</bool>
@@ -6962,7 +6962,7 @@
              <string notr="true">background:transparent;</string>
             </property>
             <property name="icon">
-             <iconset resource="../bitcoin.qrc">
+             <iconset>
               <normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapCT.png</normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapCT.png</iconset>
             </property>
             <property name="iconSize">
@@ -7082,7 +7082,7 @@
              <string notr="true">background:transparent;</string>
             </property>
             <property name="icon">
-             <iconset resource="../bitcoin.qrc">
+             <iconset>
               <normaloff>:/images/res/images/FlapXcoin/FlapXFM/RB.png</normaloff>:/images/res/images/FlapXcoin/FlapXFM/RB.png</iconset>
             </property>
             <property name="iconSize">
@@ -7241,7 +7241,7 @@
              <string notr="true">background:transparent;</string>
             </property>
             <property name="icon">
-             <iconset resource="../bitcoin.qrc">
+             <iconset>
               <normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapXKK.png</normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapXKK.png</iconset>
             </property>
             <property name="iconSize">
@@ -7387,7 +7387,7 @@
              <string notr="true">background:transparent;</string>
             </property>
             <property name="icon">
-             <iconset resource="../bitcoin.qrc">
+             <iconset>
               <normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapxFTH.png</normaloff>:/images/res/images/FlapXcoin/FlapXFM/FlapxFTH.png</iconset>
             </property>
             <property name="iconSize">
