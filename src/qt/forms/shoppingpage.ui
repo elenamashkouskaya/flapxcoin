@@ -80,7 +80,7 @@
       <enum>QTabWidget::Rounded</enum>
      </property>
      <property name="currentIndex">
-      <number>3</number>
+      <number>2</number>
      </property>
      <property name="iconSize">
       <size>
@@ -6129,7 +6129,7 @@
         <normaloff>:/images/res/images/FlapXcoin/Social/play.png</normaloff>:/images/res/images/FlapXcoin/Social/play.png</iconset>
       </attribute>
       <attribute name="title">
-       <string>Flap X FM</string>
+       <string>NerdLabs</string>
       </attribute>
       <layout class="QGridLayout" name="gridLayout_9">
        <item row="1" column="0">
