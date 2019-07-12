@@ -451,7 +451,7 @@ void ShoppingPage::on_pushButton_111_clicked()
 }
 void ShoppingPage::on_pushButton_112_clicked()
 {
-    QString link="http://159.65.37.70:3003/";
+    QString link="http://blocks.flapxcoin.com";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_113_clicked()
