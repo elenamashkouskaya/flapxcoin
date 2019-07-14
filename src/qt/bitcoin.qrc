@@ -104,6 +104,11 @@
         <file>res/images/FlapXcoin/FlapX Art/FBS.png</file>
         <file>res/images/FlapXcoin/Crypto Links/altexchanger.png</file>
         <file>res/images/FlapXcoin/Crypto Links/frei.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/elitecraft.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/nerdlabs001.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/safeseafood.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/NerdLabMiniLogo_128.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/chantha_avatar_maximum_squeeze.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>

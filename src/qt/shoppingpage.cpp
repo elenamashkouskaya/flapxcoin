@@ -514,7 +514,7 @@ void ShoppingPage::on_pushButton_136_clicked()
 //FlapXM
 void ShoppingPage::on_pushButton_141_clicked()
 {
-    QString link="https://sites.google.com/view/flapxcoin/flap-x-fm/for-the-horde";
+    QString link="https://sites.google.com/view/nerdlabs001";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_142_clicked()
@@ -640,32 +640,26 @@ void ShoppingPage::on_pushButton_524_clicked()
     QString link="https://altexchanger.com/trade/index/market/flapx_doge/";
     QDesktopServices::openUrl(QUrl(link));
 }
-//void ShoppingPage::on_pushButton_262_clicked()
-//{
-//    QString link="https://discord.gg/MThyEqQ";
-//    QDesktopServices::openUrl(QUrl(link));
-//}
+void ShoppingPage::on_pushButton_261_clicked()
+{
+    QString link="https://www.crypto-city.com/index.php/ssfcoin/";
+    QDesktopServices::openUrl(QUrl(link));
+}
 void ShoppingPage::on_pushButton_523_clicked()
 {
    QString link="https://freiexchange.com/market";
      QDesktopServices::openUrl(QUrl(link));
 }
-//888
-//void ShoppingPage::on_pushButton_531_clicked()
-//{
-// QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
-//  QDesktopServices::openUrl(QUrl(link));
-//}
-//void ShoppingPage::on_pushButton_502_clicked()
-//{
-//    QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
-//   QDesktopServices::openUrl(QUrl(link));
-//}
-//void ShoppingPage::on_pushButton_273_clicked()
-//
-//    QString link="https://youtu.be/fBJzg7IUE30";
-//   QDesktopServices::openUrl(QUrl(link));
-//}
+void ShoppingPage::on_pushButton_254_clicked()
+{
+   QString link="https://bitcoingarden.org/forum/index.php?topic=67923";
+   QDesktopServices::openUrl(QUrl(link));
+}
+void ShoppingPage::on_pushButton_262_clicked()
+{
+   QString link="https://discord.gg/2bABBgE";
+   QDesktopServices::openUrl(QUrl(link));
+}
 //SAT3
 void ShoppingPage::on_pushButton_281_clicked()
 {
@@ -758,7 +752,7 @@ void ShoppingPage::on_pushButton_504_clicked()
 
 void ShoppingPage::on_pushButton_505_clicked()
 {
-    QString link="https://www.crypto-city.com/index.php/crypto-city-academy";
+    QString link="https://www.crypto-city.com/index.php/";
     QDesktopServices::openUrl(QUrl(link));
 }
 
@@ -812,11 +806,6 @@ void ShoppingPage::on_pushButton_514_clicked()
     QDesktopServices::openUrl(QUrl(link));
 }
 
-void ShoppingPage::on_pushButton_515_clicked()
-{
-    QString link="http://cryptochainer.com/dir/";
-    QDesktopServices::openUrl(QUrl(link));
-}
 void ShoppingPage::on_pushButton_600_clicked()
 {
     QString link="http://thecoinbuilders.com/";
