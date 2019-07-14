@@ -621,7 +621,7 @@ void ShoppingPage::on_pushButton_243_clicked()
 //ELETE
 void ShoppingPage::on_pushButton_251_clicked()
 {
-    QString link="https://www.elitecurrency.net/";
+    QString link="https://www.elitecurrency.info/";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_252_clicked()
@@ -701,7 +701,7 @@ void ShoppingPage::on_pushButton_283_clicked()
 //GDC
 void ShoppingPage::on_pushButton_331_clicked()
 {
-    QString link="https://grandcoin.info/";
+    QString link="https://www.crypto-city.com/index.php/grandcoin-gdc/info";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_332_clicked()
