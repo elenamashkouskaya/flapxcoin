@@ -102,15 +102,15 @@
         <file>res/images/FlapXcoin/Crypto Links/TradeSat.png</file>
         <file>res/images/FlapXcoin/FlapX Art/FBR.png</file>
         <file>res/images/FlapXcoin/FlapX Art/FBS.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/altexchanger.png</file>
+        <file>res/images/FlapXcoin/Crypto Links/frei.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
         <file>res/movies/staking.mng</file>
         <file>res/movies/update_spinner2.mng</file>
     </qresource>
-    <qresource prefix="/translations">
-        <file alias="en">locale/bitcoin_en.qm</file>
-    </qresource>
+    <qresource prefix="/translations"/>
     <qresource prefix="/toolTip"/>
     <qresource prefix="/"/>
     <qresource prefix="/qt/themes">

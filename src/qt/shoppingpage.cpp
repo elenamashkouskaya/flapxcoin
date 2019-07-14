@@ -456,7 +456,7 @@ void ShoppingPage::on_pushButton_112_clicked()
 }
 void ShoppingPage::on_pushButton_113_clicked()
 {
-    QString link="https://sites.google.com/view/flapxcoin/resources/flapx-pools";
+    QString link="https://pool.nerdlabs001.com";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_153_clicked()
@@ -464,11 +464,11 @@ void ShoppingPage::on_pushButton_153_clicked()
     QString link="https://www.livecoinwatch.com/price/FlapXCoin-FLAPX";
     QDesktopServices::openUrl(QUrl(link));
 }
-void ShoppingPage::on_pushButton_126_clicked()
-{
-    QString link="https://sites.google.com/view/flapxcoin/bots/crawlie";
-    QDesktopServices::openUrl(QUrl(link));
-}
+//void ShoppingPage::on_pushButton_126_clicked()
+//{
+//    QString link="https://sites.google.com/view/flapxcoin/bots/crawlie";
+//    QDesktopServices::openUrl(QUrl(link));
+//}
 void ShoppingPage::on_pushButton_127_clicked()
 {
     QString link="https://sites.google.com/view/flapxcoin/bots/tipbot";
@@ -486,7 +486,7 @@ void ShoppingPage::on_pushButton_131_clicked()
 }
 void ShoppingPage::on_pushButton_132_clicked()
 {
-    QString link="https://discord.gg/F2wmDg7";
+    QString link="https://discord.gg/qbZ6hxx";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_133_clicked()
@@ -496,14 +496,14 @@ void ShoppingPage::on_pushButton_133_clicked()
 }
 void ShoppingPage::on_pushButton_134_clicked()
 {
-    QString link="https://bitcointalk.to/index.php?topic=3031911.0";
+    QString link="https://bitcointalk.org/index.php?topic=3031911.0";
     QDesktopServices::openUrl(QUrl(link));
 }
-void ShoppingPage::on_pushButton_135_clicked()
-{
-    QString link="https://play.google.com/store/apps/details?id=com.flapxfm.radio";
-    QDesktopServices::openUrl(QUrl(link));
-}
+//void ShoppingPage::on_pushButton_135_clicked()
+//{
+//    QString link="https://play.google.com/store/apps/details?id=com.flapxfm.radio";
+//    QDesktopServices::openUrl(QUrl(link));
+//}
 void ShoppingPage::on_pushButton_136_clicked()
 {
     QString link="https://sites.google.com/view/flapxcoin/dont-panic";
@@ -637,7 +637,7 @@ void ShoppingPage::on_pushButton_253_clicked()
 //888
 void ShoppingPage::on_pushButton_524_clicked()
 {
-    QString link="https://nibyx.com/index.php";
+    QString link="https://altexchanger.com/trade/index/market/flapx_doge/";
     QDesktopServices::openUrl(QUrl(link));
 }
 //void ShoppingPage::on_pushButton_262_clicked()
@@ -647,20 +647,20 @@ void ShoppingPage::on_pushButton_524_clicked()
 //}
 void ShoppingPage::on_pushButton_523_clicked()
 {
-   QString link="https://cryptohub.online/market/FLAPX/";
+   QString link="https://freiexchange.com/market";
      QDesktopServices::openUrl(QUrl(link));
 }
 //888
-void ShoppingPage::on_pushButton_531_clicked()
-{
-  QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
-   QDesktopServices::openUrl(QUrl(link));
-}
-void ShoppingPage::on_pushButton_502_clicked()
-{
-    QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
-    QDesktopServices::openUrl(QUrl(link));
-}
+//void ShoppingPage::on_pushButton_531_clicked()
+//{
+// QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
+//  QDesktopServices::openUrl(QUrl(link));
+//}
+//void ShoppingPage::on_pushButton_502_clicked()
+//{
+//    QString link="https://tradesatoshi.com/Exchange/?market=FLAPX_BTC";
+//   QDesktopServices::openUrl(QUrl(link));
+//}
 //void ShoppingPage::on_pushButton_273_clicked()
 //
 //    QString link="https://youtu.be/fBJzg7IUE30";
@@ -674,7 +674,7 @@ void ShoppingPage::on_pushButton_281_clicked()
 }
 void ShoppingPage::on_pushButton_282_clicked()
 {
-    QString link="https://discord.gg/9HDZF9Z";
+    QString link="https://discord.gg/EGzXQrZ";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_283_clicked()

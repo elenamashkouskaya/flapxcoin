@@ -85,9 +85,9 @@ private slots:
 
     void on_pushButton_113_clicked();
 
-    void on_pushButton_531_clicked();
+//    void on_pushButton_531_clicked();
 
-    void on_pushButton_126_clicked();
+//    void on_pushButton_126_clicked();
 
     void on_pushButton_127_clicked();
 
@@ -101,7 +101,7 @@ private slots:
 
     void on_pushButton_134_clicked();
 
-    void on_pushButton_135_clicked();
+//    void on_pushButton_135_clicked();
 
     void on_pushButton_136_clicked();
 
@@ -189,7 +189,7 @@ private slots:
 
     void on_pushButton_501_clicked();
 
-    void on_pushButton_502_clicked();
+//    void on_pushButton_502_clicked();
 
     void on_pushButton_503_clicked();
 
