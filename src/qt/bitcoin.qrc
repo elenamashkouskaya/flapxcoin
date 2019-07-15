@@ -109,6 +109,11 @@
         <file>res/images/FlapXcoin/Crypto Links/safeseafood.png</file>
         <file>res/images/FlapXcoin/Crypto Links/NerdLabMiniLogo_128.png</file>
         <file>res/images/FlapXcoin/Crypto Links/chantha_avatar_maximum_squeeze.png</file>
+        <file>res/images/cryptocity/cctext.png</file>
+        <file>res/images/nerdlabs001/nerdlabs001icon.png</file>
+        <file>res/images/nerdlabs001/elitecraft.png</file>
+        <file>res/images/nerdlabs001/elitecraftvideo.png</file>
+        <file>res/images/cryptocity/cryptocity.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
@@ -117,7 +122,9 @@
     </qresource>
     <qresource prefix="/translations"/>
     <qresource prefix="/toolTip"/>
-    <qresource prefix="/"/>
+    <qresource prefix="/">
+        <file>res/images/cryptocity/cryptocity.png</file>
+    </qresource>
     <qresource prefix="/qt/themes">
         <file>themes/flapxcoin/b1.png</file>
         <file>themes/flapxcoin/o1.png</file>

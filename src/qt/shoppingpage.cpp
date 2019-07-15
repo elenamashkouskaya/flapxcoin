@@ -499,11 +499,11 @@ void ShoppingPage::on_pushButton_134_clicked()
     QString link="https://bitcointalk.org/index.php?topic=3031911.0";
     QDesktopServices::openUrl(QUrl(link));
 }
-//void ShoppingPage::on_pushButton_135_clicked()
-//{
-//    QString link="https://play.google.com/store/apps/details?id=com.flapxfm.radio";
-//    QDesktopServices::openUrl(QUrl(link));
-//}
+void ShoppingPage::on_pushButton_135_clicked()
+{
+    QString link="https://youtu.be/EY-u_mjNGKY";
+    QDesktopServices::openUrl(QUrl(link));
+}
 void ShoppingPage::on_pushButton_136_clicked()
 {
     QString link="https://sites.google.com/view/flapxcoin/dont-panic";
@@ -797,7 +797,7 @@ void ShoppingPage::on_pushButton_512_clicked()
 
 void ShoppingPage::on_pushButton_513_clicked()
 {
-    QString link="http://www.1337fah.com/";
+    QString link="https://www.crypto-city.com/index.php/";
     QDesktopServices::openUrl(QUrl(link));
 }
 void ShoppingPage::on_pushButton_514_clicked()
