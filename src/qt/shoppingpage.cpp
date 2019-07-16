@@ -461,7 +461,7 @@ void ShoppingPage::on_pushButton_113_clicked()
 }
 void ShoppingPage::on_pushButton_153_clicked()
 {
-    QString link="https://www.livecoinwatch.com/price/FlapXCoin-FLAPX";
+    QString link="https://www.crypto-city.com/index.php/crypto-city-academy/starthere/";
     QDesktopServices::openUrl(QUrl(link));
 }
 //void ShoppingPage::on_pushButton_126_clicked()
@@ -534,7 +534,7 @@ void ShoppingPage::on_pushButton_144_clicked()
 }
 void ShoppingPage::on_pushButton_145_clicked()
 {
-    QString link="https://play.google.com/store/apps/details?id=com.flapxfm.radio";
+    QString link="https://youtu.be/EY-u_mjNGKY";
     QDesktopServices::openUrl(QUrl(link));
 }
 //communities
